@@ -1,0 +1,15 @@
+=== LAB 1.1: IAM SETUP DOCUMENTATION ===
+
+Date Created:01/07/2026
+AWS Account ID:0255-2356-8662
+
+ROLES CREATED:
+
+1. DataEngineerRole
+2. GlueServiceRole
+3. LambdaExecutionRole
+4. RedshiftIAMRole
+5. AnalystReadOnlyRole
+
+CUSTOM POLICY:
+DataLakeBucketAccessPolicy

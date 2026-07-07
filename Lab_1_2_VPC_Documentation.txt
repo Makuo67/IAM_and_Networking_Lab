@@ -1,0 +1,8 @@
+VPC ID = vpc-086ebedad8dd36707
+Subnet ID = [subnet-02f71b25c3dda1b75, subnet-03b3e5496fdf1898b, subnet-0c3192d842498dd57]
+Route Table ID = [rtb-0dd6880915b567e0a, rtb-0fc66252a30e9ae43]
+Security Group ID = [	
+sg-022354db3715e6a0b, sg-07e9a82fb4bea9123, sg-064a5aca55d19a1f3]
+Endpoint ID = [vpce-02e421011f97d8256, vpce-0031f873119a4d7ab, vpce-01d519c0594cb9526]
+NAT Gateway ID = nat-072381d4eec9288f0
+Elastic IP = 34.247.131.119
